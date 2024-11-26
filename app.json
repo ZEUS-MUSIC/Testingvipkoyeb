@@ -16,17 +16,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "14050586",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "42a60d9c657b106370c79bb0a8ac560c",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token Get it from @Botfather",
-        "value": "",
+        "value": "7256385054:AAE8FzBaWx3MBSd7SPaR83L47qamZjRxsKA",
         "required": true
       },
       "EXTRA_PLUGINS": {
@@ -36,17 +36,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from `https://cloud.mongodb.com` . You can leave it blank if you want , bot will use VIP's database for you.",
-        "value": "",
+        "value": "mongodb+srv://sevexedits:5JyQbk44RuB2jQj6@cluster0.lezcv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1801994649",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQFvUPwAna87wcMrE5lMO2yMom1CW56zUiNKcPocj8x20E55FZs-WKIzxW2KBKd7R1Ni3jcbJQz9vwpjfiMOlMZyj62coiGU872MQVDIAsRvqkCwNMsTYWF08jKN-4yKDZcJ0TD3hGBFVSRa0lH5O8uhNPZCo_YhbfLsRvJkJHNkDZfa5cGHyH2dtICxYjueFeoMBjGGuUQaujBHBTgMEBcuiDF6qXVnihArpf68q22nHlLB19pVF7Epwz8aS4WjqRAaxFDcwMQpb24AXrKB1uj8jlYso4IE3uoh12knN3NO7MU-NyhX0FLU0T51t18WVb010GtRJ_3PFYAw-UiRRBijF26kAgAAAAHjy7UcAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -61,7 +61,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": " -1002432033258",
         "required": true
       },
       "AUTO_GCAST": {
